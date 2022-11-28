@@ -1,0 +1,66 @@
+/* Write your CSS here */
+
+/* Write your CSS here */
+
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 0.5px solid #dcdcdc;
+}
+
+.dark-bg {
+  background-color: #333333;
+}
+
+.website-logo {
+  width: 80px;
+  height: 80px;
+  margin-left: 20px;
+}
+
+.home-about-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 160px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.link-item {
+  text-decoration: none;
+}
+
+.list-item {
+  list-style-type: none;
+
+  width: 65px;
+}
+
+.website-theme {
+  width: 60px;
+  height: 60px;
+  margin-right: 20px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 700;
+  color: #1e293b;
+}
+.color {
+  color: #ffffff;
+}
+
+.button {
+  margin-right: 25px;
+  width: 65px;
+  height: 65px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}

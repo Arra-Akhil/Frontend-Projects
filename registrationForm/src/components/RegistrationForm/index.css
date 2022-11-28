@@ -1,0 +1,124 @@
+/* Write your CSS code here */
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+  max-width: 1110px;
+  width: 80%;
+}
+
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+  width: 80%;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  width: 50%;
+  height: 60%;
+  box-shadow: 1px 1px 1px 1px #bfbfbf;
+}
+
+.form-items {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: 80%;
+}
+
+.input-item {
+  width: 100%;
+
+  padding-bottom: 0px;
+  height: 90px;
+}
+
+.error-message {
+  margin-top: 0px;
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #ff0b37;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #ea580c;
+}
+
+.label {
+  font-family: 'Roboto';
+  color: #475569;
+  font-weight: 400;
+  font-size: 14px;
+  align-self: flex-start;
+}
+
+.input-container {
+  font-family: 'Roboto';
+  font-size: 16px;
+  width: 100%;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border: 1px solid #9aa5b1;
+  margin-bottom: 0px;
+  outline: none;
+}
+.bg-color {
+  background-color: #fef2f4;
+  outline: 1px solid#ff0b37;
+}
+
+.button {
+  font-family: 'Roboto';
+  font-size: 16px;
+  background-color: #ff0b37;
+  color: #ffffff;
+  min-width: 80px;
+  height: 35px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.success-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  width: 80%;
+  height: 80%;
+}
+.success-img {
+  width: 60px;
+  height: 60px;
+}
+
+.success-para {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #475569;
+  font-weight: 500;
+}

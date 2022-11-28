@@ -2,6 +2,12 @@ In this project, let's build a **Jobby App** by applying the concepts we have le
 
 ### Refer to videos below:
 
+
+
+https://user-images.githubusercontent.com/119116235/204236591-504c136f-eff2-409e-88d2-613a43c6efe5.mp4
+
+
+
 <div style="text-align: center;">
   <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
     <source src="https://assets.ccbp.in/frontend/content/react-js/jobby-app-success-output-v0.mp4" type="video/mp4">
@@ -9,7 +15,18 @@ In this project, let's build a **Jobby App** by applying the concepts we have le
 </div>
 <br/>
 
+
+
 **Failure View** <br/>
+
+
+
+
+https://user-images.githubusercontent.com/119116235/204236797-2152ae7a-c7c2-47d2-8421-1131239c9753.mp4
+
+
+
+
 
 <div style="text-align: center;">
   <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>

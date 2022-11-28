@@ -2,6 +2,13 @@ In this project, let's build a **Nxt Trendz - Cart Features** by applying the co
 
 ### Refer to the video below:
 
+
+
+https://user-images.githubusercontent.com/119116235/204270481-cfc3ac14-efcd-496f-8c29-dc7c5b85e096.mp4
+
+
+
+
 <br/>
 <div style="text-align: center;">
   <video style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>

@@ -1,0 +1,136 @@
+.similar-job-list-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+
+  width: 300px;
+  margin-right: 50px;
+  background-color: #272727;
+  height: 400px;
+  padding: 25px;
+  border-radius: 12px;
+}
+
+.logo-title-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+
+  margin-bottom: 20px;
+}
+
+.similar-job-logo {
+  width: 55px;
+  height: 55px;
+  margin-right: 20px;
+}
+
+.title-rating-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.similar-job-title {
+  font-family: 'Roboto';
+  font-size: 17px;
+  font-weight: 500;
+  color: #ffffff;
+
+  margin-bottom: 0px;
+}
+
+.similar-rating-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 150px;
+  height: 36px;
+  margin-top: 5px;
+}
+
+.similar-star-icon {
+  width: 20px;
+  height: 20px;
+  color: #fbbf24;
+  margin-right: 10px;
+}
+
+.similar-rating {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.similar-job-rating {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 20px;
+  margin-top: 0px;
+}
+
+.description-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+
+  margin-bottom: 15px;
+}
+
+.description-heading {
+  font-family: 'Roboto';
+  font-weight: 400;
+  color: #f1f5f9;
+  font-size: 22px;
+  margin-top: 5px;
+  margin-bottom: 8px;
+}
+
+.similar-job-description {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 300;
+  color: #f1f5f9;
+}
+
+.similar-job-location-emp-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.similar-location-icon {
+  color: #ffffff;
+  width: 25px;
+  height: 25px;
+  margin-right: 8px;
+}
+
+.similar-location {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #f1f5f9;
+  margin-right: 45px;
+}
+
+.similar-emp-icon {
+  color: #ffffff;
+  width: 25px;
+  height: 25px;
+
+  margin-right: 8px;
+}
+
+.similar-emp-type {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #f1f5f9;
+}

@@ -1,0 +1,131 @@
+.job-link-item {
+  text-decoration: none;
+}
+
+.list-item-1 {
+  width: 100%;
+  min-height: 300px;
+  background-color: #272727;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  border-radius: 10px;
+  list-style-type: none;
+  margin-bottom: 25px;
+  margin-left: 0px;
+  padding: 30px;
+}
+
+.icon-title-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.company-logo {
+  width: 60px;
+  height: 60px;
+  margin-right: 15px;
+}
+.title-rating-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+
+  height: 60px;
+}
+
+.title-name {
+  font-family: 'Roboto';
+  font-size: 17px;
+  font-weight: 500;
+  color: #ffffff;
+
+  margin-bottom: 5px;
+}
+
+.rating-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 5px;
+}
+
+.rating {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+.location-job-type-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 100%;
+}
+
+.location-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  height: 50px;
+
+  width: 300px;
+}
+
+.location {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #f1f5f9;
+}
+
+.employment {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #f1f5f9;
+}
+
+.package {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 600;
+  color: #ffffff;
+}
+.separator {
+  width: 100%;
+  border: 0.1px solid #cbd5e1;
+}
+
+.description-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+
+  margin-top: 0px;
+}
+
+.description-title {
+  font-family: 'Roboto';
+  font-weight: 400;
+  color: #f1f5f9;
+  font-size: 22px;
+
+  margin-top: 5px;
+  margin-bottom: 8px;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 300;
+  color: #f1f5f9;
+}
